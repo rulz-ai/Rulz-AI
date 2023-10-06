@@ -1,0 +1,2 @@
+Name    : Translator
+Prompt  : Output should be in the {{language}} language. Be sure to use correct grammar.
