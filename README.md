@@ -1,4 +1,4 @@
-# Rulz-AI Version 4
+# Rulz-AI
 
 ## DEMO
 
