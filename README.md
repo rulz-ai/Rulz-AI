@@ -6,7 +6,7 @@
      
    2. How to turn Rulz-AI into an [apps](https://twitter.com/i/status/1706211100558250471)
 
-## Rulz-AI is a Powerful Language Model trained in massive amount of data.
+## Rulz-AI is a Powerful Language Model trained on massive amount of data.
 
 ![Rulz-AI](./next.png)
 
