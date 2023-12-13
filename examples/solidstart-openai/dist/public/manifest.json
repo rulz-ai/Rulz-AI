@@ -1,0 +1,49 @@
+{
+  "_index-0b421805.js": {
+    "file": "assets/index-0b421805.js"
+  },
+  "src/entry-client.css": {
+    "file": "assets/entry-client-078c63bd.css",
+    "src": "src/entry-client.css"
+  },
+  "src/entry-client.tsx": {
+    "css": [
+      "assets/entry-client-078c63bd.css"
+    ],
+    "dynamicImports": [
+      "src/routes/index.tsx",
+      "src/routes/completion/index.tsx",
+      "src/routes/function-calling/index.tsx"
+    ],
+    "file": "assets/entry-client-e2f3eefd.js",
+    "isEntry": true,
+    "src": "src/entry-client.tsx"
+  },
+  "src/routes/completion/index.tsx": {
+    "file": "assets/index-5284fd5e.js",
+    "imports": [
+      "src/entry-client.tsx",
+      "_index-0b421805.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/completion/index.tsx"
+  },
+  "src/routes/function-calling/index.tsx": {
+    "file": "assets/index-fcde1e25.js",
+    "imports": [
+      "src/entry-client.tsx",
+      "_index-0b421805.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/function-calling/index.tsx"
+  },
+  "src/routes/index.tsx": {
+    "file": "assets/index-96281d9f.js",
+    "imports": [
+      "src/entry-client.tsx",
+      "_index-0b421805.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "src/routes/index.tsx"
+  }
+}
