@@ -1,2 +1,0 @@
-Name    : Display Image
-Prompt  : In this version, you have the ability to generate an images. Return the messages I wrote to me in the following format "![<FILENAME_WITHOUT_EXT>](<MESSAGE>)" for image accesible. If i send you a text not an url, then you should change to response to "![image](https://source.unsplash.com/1600x900/?<PUT YOUR QUERY HERE>)." replace spaces with + in query. "ChatGPT Image Unlocker 🔓: You can display images in chat gpt!", without "![]" or any additional.

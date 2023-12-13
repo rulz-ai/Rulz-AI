@@ -1,3 +1,0 @@
-Name         : Email Generative
-Description  : Generates an email based on inputs
-Prompt       : Generate an email to {{to}} about {{subject}} with the following details: {{details}}
