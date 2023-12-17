@@ -1,15 +1,15 @@
-# Rulz-AI
+# RULZ-AI
 
-## DEMO
+## Getting Started
 
-   1. Build [Prompt](https://twitter.com/i/status/1706212962053308655)
-     
-   2. How to turn Rulz-AI into an [apps](https://twitter.com/i/status/1706211100558250471)
+## Deploy
 
-## Rulz-AI is a Powerful Language Model trained on massive amount of data.
+**Vercel**
 
-![Rulz-AI](./next.png)
+Host your own live version of Rulz-AI with Vercel.
 
-## Contact
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frebornrulz%2Frulz-ai)
 
-If you have any questions, feel free to reach out to Reborn Rulz on [Twitter](https://twitter.com/rulz_reborn).
+Get your API Key [here](https://platform.openai.com/account/api-keys)
+
+![Rulz-AI](./public/page.png)
